@@ -1,3 +1,3 @@
 learn git:
-git is a version control system.
-git is a software.
+git is a version control system. Git
+git is a software. Git
